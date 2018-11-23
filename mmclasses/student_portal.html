@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Backend</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+    <div class="container" style="width:500px; padding-top: 15vh; padding-left: 5vw; display: block;">
+        <h3 align="">Student Portal </h3>
+        <br />
+        <div>
+            <br/>
+            <h4>Search student by ID</h4>
+            <br/>
+            <input type="text" name="studentId" class="form-control" id="studentId" style="cursor: pointer; text-align: center;" placeholder="Enter student ID" />
+            <br>
+            <input type="password" name="pass" class="form-control" id="pass" style="cursor: pointer; text-align: center;" placeholder="Enter student password" />
+            <br>
+            <input type="submit" name="sbutton" class="btn btn-success" onclick="myProcess()">
+            <div id="content"></div>
+            <button id="button" onclick="myProcess2()" class="btn btn-info" style="display: none;">Hide details</button>
+        </div>
+    </div>
+    <br />
+</body>
+<script type="text/javascript">
+function myProcess() {
+
+    var x, y, z;
+    var xx;
+
+    x = document.getElementById('studentId').value;
+    z = document.getElementById('pass').value;
+
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+        if (this.status == 200 && this.readyState == 4) {
+
+            xx = JSON.parse(this.responseText);
+
+            for (y = 0; y <= xx.length; y++) {
+
+                if (xx[y].id == x && xx[y].pass == z) {
+
+                    document.getElementById('content').style.display = "block";
+
+                    document.getElementById('content').innerHTML = "<br><p><b>Name: </b>" + xx[y].name + "<br /><b>Father's name: </b>" + xx[y].fname + "<br /><b>Mother's name: </b>" + xx[y].mname + "<br /><b>Address: </b>" + xx[y].address + "<br><b>School: </b>"+ xx[y].school + "<br><b>Class: </b>"+ xx[y].class + "<br><b>Date of birth: </b>"+ xx[y].dob +"<br /><b>Contact details: </b>" + xx[y].contact +"<br /><b>E-mail: </b>" + xx[y].mail + "</p>";
+
+                    document.getElementById('button').style.display = "block";
+
+                }
+
+            }
+
+        }
+    }
+
+    xhttp.open("GET", "employee_data.json", true);
+    xhttp.send();
+
+}
+
+function myProcess2() {
+
+    document.getElementById('content').style.display = "none";
+    document.getElementById('button').style.display = "none";
+
+}
+</script>
+
+</html>

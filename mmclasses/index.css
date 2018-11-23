@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+	<title>MOHIT MAHLOTRA CLASSES | Home</title>
+	<!-- for-mobile-apps -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	  <meta charset="utf-8" />
+	<meta name="keywords" content="Attainment Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+	<script> 
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<!-- //for-mobile-apps -->
+	 <link href="bootstrap.css" type="text/css" rel="stylesheet" media="all">
+	<!--banner slider  -->
+	<link href="JiSlider.css" rel="stylesheet">
+	<!-- //banner-slider -->
+		<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
+	<link href="font-awesome.css" rel="stylesheet">
+	<link href="style.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="//fonts.googleapis.com/css?family=Oswald:400,500,600,700" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" rel="stylesheet">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Course Registration Form Responsive Widget,Login form widgets, Sign up Web forms , Login signup Responsive web form,Flat Pricing table,Flat Drop downs,Registration Forms,News letter Forms,Elements" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- Meta tag Keywords -->
+<link href="cl1.css" rel="stylesheet" type="text/css" media="all" />
+<!-- js -->
+<!-- //js -->
+<!-- web-fonts -->
+<link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+<!-- //web-fonts --> 
+
+</head>
+
+<body>
+	<!-- header -->
+	<section class="w3layouts-header py-2">
+		<div class="container">
+			  <!-- header -->
+        <header>
+                <nav class="navbar navbar-expand-lg navbar-light bg-gradient-secondary">
+                    <h1>
+                        <a class="navbar-brand" href="index.html">
+                         Mahlotra Classes   
+                        </a>
+                    </h1>
+                    <button class="navbar-toggler ml-md-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav ml-lg-auto text-center">
+                            <li class="nav-item active  mr-3">
+                                <a class="nav-link" href="index.html">Home
+                                    <span class="sr-only">(current)</span>
+                                </a>
+                            </li>
+                            <li class="nav-item  mr-3">
+                                <a class="nav-link" href="about.html">about</a>
+                            </li>
+							 <li class="nav-item  mr-3">
+                                <a class="nav-link" href="services.html">Services</a>
+                            </li>
+                            <li class="nav-item dropdown mr-3">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+                                    aria-expanded="false">
+                                    Login
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="append_json_data.php">Admin</a>
+									 <a class="dropdown-item" href="student_portal.html">Student</a>
+                                </div>
+                            </li>
+                            <li class="nav-item mr-3">
+                                <a class="nav-link" href="contact.html">Contact</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+        </header>
+        <!-- //header -->
+		</div>
+	</section>
+	<!-- //header -->
+	<!-- banner -->
+	<section class="banner-silder">
+		<div id="JiSlider" class="jislider">
+			<ul>
+				<li>
+					<div class="banner-top banner-top1">
+						<div class="container">
+							<div class="banner-info bg3 info2">
+								<h3 >Center for Studies</h3>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="banner-top banner-top2">
+						<div class="container">
+							<div class="banner-info bg3 info2">
+								<h3>Providing Quality Education</h3>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="banner-top banner-top3">
+						<div class="container">
+							<div class="banner-info bg3">
+								<h3>Creating Your Future</h3>
+							</div>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+		</section>
+		<!-- //banner -->
+		<!-- banner bottom -->
+		<section class="banner-btm">
+			<div class="container">
+				<div class="row banner-bottom-main bg-white">
+						<div class="col-md-4 banner-grid2">
+							<div class="banner-subg1">
+								<h3 class="mt-3"><span class="fa fa-clock " aria-hidden="true"></span> OPENING HOURS</h3>
+								<p class="mt-3 pl-5">Monday - Friday 09.00 am - 8.00 pm</p>
+								<p class="pl-5">Saturday 09.00am - 2.00pm</p>
+							</div>
+						</div>
+						<div class="col-md-4 banner-grid2">
+							<div class="banner-subg1">
+								<h3 class="mt-3"><span class="fa fa-phone" aria-hidden="true"></span> CALL US ANYTIME</h3>
+								<p class="mt-3 pl-5">+91 81262525292</p>
+								<p class="pl-5">+91 9368684884</p>
+							</div>
+						</div>
+						<div class="col-md-4 banner-grid2">
+							<div class="banner-subg1">
+								<h3 class="mt-3"><span class="fa fa-envelope" aria-hidden="true"></span> EMAIL US</h3>
+								<p class="mt-3 pl-5">Email :<a href="mohitmahlotra024@gmail.com"> mohitmahlotra024@gmail.com</a></p>
+							</div>
+						</div>
+				</div>
+			</div>
+		</section>
+		<!-- //banner bottom -->
+
+
+	<!-- courses -->
+		<!-- banner --> 
+
+<div class="video" > 
+	<div class="center-container">
+	    <div class="w3ls-agileinfo">
+			<h1> Course Registration Form </h1>	
+		</div>
+		 <div class="bg-agile">
+			<h2>Classroom Course </h2>
+			<div class="login-form">	
+				<form action="#" method="post">
+					<input type="text"  name="Name" placeholder="Full Name" required="" />
+					<input type="text"  name="Class" placeholder="Class" required="" />
+					<input type="text"  name="Company" placeholder="Company" required="" />
+					<input type="email"  name="Email" placeholder="Email" required="" />
+					<input type="text"  name="Address" placeholder="Street Address" required="" />
+					<input type="text"  name="Address" placeholder="Street Address Line2" required="" />
+					<div class="left-w3-agile">
+						<select class="form-control">
+							<option>Choose your course</option>
+							<option>ninth</option>
+							<option>tenth</option>
+							<option>eleventh</option>
+							<option>twelvth</option>
+							<option> higher education</option>
+						</select>
+						<input type="text"  name="Region" placeholder="State/region" required="" />
+					</div>
+					<div class="right-agileits">
+						<input type="text"  name="City" placeholder="City" required="" />
+						<input type="text"  name="Zip/postal code" placeholder="Zip/postal code" required="" />
+					</div>
+					<input type="text"  name="Number" placeholder="Phone Number" required="" />
+					<input type="submit" value="Submit">
+				</form>	
+			</div>	
+		</div>
+	<!-- //banner --> 
+	</div>	
+</div>
+
+	<!-- //prepare -->
+	<!-- categories -->
+	<section class="categories_agile py-5"style="background:url(3.jpg)" >
+		<div class="container py-md-4 mt-md-3">
+		<h3 class="heading-agileinfo">Categories <span>Providing Quality Education</span></h3>
+			<div class="row categories-top mt-md-5 pt-5">
+				<div class="col-md-4 categories-left1">
+				</div>
+				<div class="col-md-8 categories-left">
+					<div class="row">
+						<div class="col-md-6 col-sm-6 categories_sub cats">
+							<div class="categories_sub1">
+								<h3 class="mt-3">TEACHING</h3>
+								<p class="mt-3 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</p>
+							</div>
+							<div class="categories_sub1">
+								<h3 class="mt-3"> CLASSES</h3>
+								<p class="mt-3 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</p>
+							</div>
+							<div class="categories_sub1">
+								<h3 class="mt-3">AFFORDABLE</h3>
+								<p class="mt-3 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</p>
+							</div>
+						</div>
+						<div class="col-md-6 col-sm-6 categories_sub cats1">
+							<div class="categories_sub2">
+								<h3 class="mt-3">CERTIFICATION</h3>
+								<p class="mt-3 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</p>
+							</div>
+							<div class="categories_sub2">
+								<h3 class="mt-3">MATERIALS</h3>
+								<p class="mt-3 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</p>
+							</div>
+							<div class="categories_sub2">
+								<h3 class="mt-3">TEACHING</h3>
+								<p class="mt-3 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- //categories -->
+<!-- stats -->
+<section class="stats  py-5">
+		<div class="container py-md-4 mt-md-3">
+			<h3 class="tittle-w3ls text-center mb-3">LET THE NUMBERS SPEAK FOR US</h3>
+			<div class="row inner_w3l_agile_grids-1 pt-4 mt-md-4">
+			<div class="col-md-3 col-sm-6 w3layouts_stats_left w3_counter_grid">
+				<p class="counter">1000</p>
+				<h3>STUDENTS</h3>
+			</div>
+			<div class="col-md-3 col-sm-6 w3layouts_stats_left w3_counter_grid1">
+				<p class="counter">45</p>
+				<h3>COURSES</h3>
+			</div>
+			<div class="col-md-3 col-sm-6 w3layouts_stats_left w3_counter_grid2">
+				<p class="counter">9</p>
+				<h3>YEARS</h3>
+			</div>
+			<div class="col-md-3 col-sm-6 w3layouts_stats_left w3_counter_grid2">
+				<p class="counter">1</p>
+				<h3>TEACHERS</h3>
+			</div>
+		</div>
+   </div>	
+</section>
+<!-- //stats -->
+<!-- Clients -->
+<div class="clients bg-white py-5">
+		<div class="container py-md-4 mt-md-3">
+	
+				<h3 class="heading-agileinfo"> NOTICE BOARD <span>Providing Quality Education</span></h3>
+		
+			
+			
+	<!-- Pricing Section -->
+<div class="w3-container w3-center " style="padding:128px 16px" id="pricing">
+  <p class="w3-large">Stay Updated</p>
+  <div class="w3-row-padding" style="margin-top:64px">
+    <div class="w3-third w3-section">
+      <ul class="w3-ul w3-white w3-hover-shadow">
+        <li class="w3-black w3-xlarge w3-padding-32">NEW BATCHES</li>
+        <li class="w3-padding-16"><b></b> </li>
+        <li class="w3-padding-16"><b></b> </li>
+        <li class="w3-padding-16"><b></b> </li>
+        <li class="w3-padding-16"><b></b></li>
+        <li class="w3-padding-16">
+          <h2 class="w3-wide"></h2>
+          <span class="w3-opacity"></span>
+        </li>
+      </ul>
+    </div>
+    <div class="w3-third">
+      <ul class="w3-ul w3-white w3-hover-shadow">
+        <li class="w3-pink w3-xlarge w3-padding-48">RECENT NEWS </li>
+        <li class="w3-padding-16"><b></b> </li>
+        <li class="w3-padding-16"><b></b> </li>
+        <li class="w3-padding-16"><b></b> </li>
+        <li class="w3-padding-16"><b></b> </li>
+        <li class="w3-padding-16">
+          <h2 class="w3-wide"></h2>
+          <span class="w3-opacity"></span>
+        </li>
+        
+
+      </ul>
+    </div>
+    <div class="w3-third w3-section">
+      <ul class="w3-ul w3-white w3-hover-shadow">
+        <li class="w3-black w3-xlarge w3-padding-32">UPCOMING</li>
+        <li class="w3-padding-16"><b></b> </li>
+        <li class="w3-padding-16"><b></b></li>
+        <li class="w3-padding-16"><b></b> </li>
+        <li class="w3-padding-16"><b></b></li>
+        <li class="w3-padding-16">
+          <h2 class="w3-wide"></h2>
+          <span class="w3-opacity"></span>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+		</div>
+</div>
+<!-- //Clients -->
+<!-- Footer -->
+	<footer class="footer-section py-5" style="margin: 0px;">
+		<div class="container">
+			<div class="row">
+				
+				<div class="col-lg-4 footer-grids">
+					<h3>Get in touch</h3>
+					<p>8A shardha vihar phase-2 ,Near kalyani hights, 100feet road </p>
+					<p class="my-2"> Agra city , uttarpradesh</p>
+					<p class="phone">phone: +91 9368684884</p>
+					<p class="phone my-2">+91 81262525292</p>
+					<p class="phone">Mail:
+						<a href="mailto:info@example.com">mohitmahlotra024@gmail.com</a>
+					</p>
+				</div>
+				<div class="col-lg-4 footer-grids">
+					<h2>INSIDE STORIES</h2>
+					<div class="d-flex justify-content-around">
+						<a href="#" class="col-4">
+							<img src="m10.jpg" class="img-fluid" alt="Responsive image">
+						</a>
+						<a href="#" class="col-4">
+							<img src="m12.jpg" class="img-fluid" alt="Responsive image">
+						</a>
+						<a href="#" class="col-4">
+							<img src="m13.jpg" class="img-fluid" alt="Responsive image">
+						</a>
+					</div>
+					<div class="d-flex justify-content-around">
+						<a href="#" class="col-4">
+							<img src="m14.jpg" class="img-fluid" alt="Responsive image">
+						</a>
+						<a href="#" class="col-4">
+							<img src="m5.jpg" class="img-fluid" alt="Responsive image">
+						</a>
+						<a href="#" class="col-4">
+							<img src="m3.jpg" class="img-fluid" alt="Responsive image">
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-4 footer-grids">
+					<h3>KNOWLEDGE CORNER</h3>
+					<ul class="w3agile_footer_grid_list">
+						<li>Content 1
+							<a href="#">example.com</a>
+							<span>
+								<i class="fab fa-twitter"></i> 02 days ago</span>
+						</li>
+						<li>content 2
+							<a href="#">example.com</a>
+							<span>
+								<i class="fab fa-twitter"></i> 03 days ago</span>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- //Footer -->
+<!-- copyright -->
+	<section class="copyright-w3layouts py-xl-4 py-3">
+		<div class="container">
+			<ul class="social-nav footer-social social two text-center mt-2">
+					<li>
+						<a href="#">
+							<i class="fa fa-facebook" aria-hidden="true"></i>
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<i class="fa fa-twitter" aria-hidden="true"></i>
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<i class="fa fa-instagram" aria-hidden="true"></i>
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<i class="fa fa-pinterest" aria-hidden="true"></i>
+						</a>
+					</li>
+				</ul>
+		</div>
+	</section>
+	<!-- //copyright -->
+	<!-- Modal -->
+	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+		<div class="modal-dialog modal-dialog-centered" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h4 class="modal-title">Mahlotra Classes</h4>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					<div class="agileits-w3layouts-info">
+						<img src="images/bg1.jpg" class="img-fluid" alt="" />
+						<p>Duis venenatis, turpis eu bibendum porttitor, sapien quam ultricies tellus, ac rhoncus risus odio eget nunc. Pellentesque ac fermentum diam. Integer eu facilisis nunc, a iaculis felis. Pellentesque pellentesque tempor enim, in dapibus turpis porttitor quis. </p>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+					<button type="button" class="btn btn-primary">Save changes</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //Modal -->
+	<!-- js -->
+	<script src="jquery-2.2.3.min.js"></script>
+	<!-- //js-->
+	<!--banner-slider-->
+	<script src="JiSlider.js"></script>
+	<script> 
+		$(window).load(function () {
+			$('#JiSlider').JiSlider({
+				color: '#fff',
+				start: 1,
+				reverse: false
+			}).addClass('ff')
+		})
+	</script>
+	<!-- //banner-slider -->
+	<!-- stats -->
+	<script src="jquery.waypoints.min.js"></script>
+	<script src="jquery.countup.js"></script>
+		<script>
+			$('.counter').countUp();
+		</script>
+<!-- //stats -->
+
+	<!-- FlexSlider-JavaScript -->
+	<script defer src="jquery.flexslider.js"></script>
+	<script type="text/javascript">
+		
+				$(window).load(function(){
+				$('.flexslider').flexslider({
+					animation: "slide",
+					start: function(slider){
+						$('body').removeClass('loading');
+					}
+			});
+		});
+	</script>
+<!-- //FlexSlider-JavaScript -->
+	
+	<!-- Bootstrap core JavaScript
+    ================================================== -->
+	<!-- Placed at the end of the document so the pages load faster -->
+	 <script src="bootstrap.js"></script>
+</body>
+
+</html>
