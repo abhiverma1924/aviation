@@ -1,0 +1,114 @@
+body, html{
+max-width: 100%;
+margin:0px;
+padding:0px;
+color: #FDFEFE;
+font-family: "luna";
+}
+
+.container{
+            background: url('n2.jpeg') no-repeat center center fixed;
+            min-height: 650px;
+            min-width: 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: relative;
+            display: inline-block;
+            border-bottom-right-radius: 10%;
+            border-bottom-left-radius: 10%;  
+            background-color: black; 
+            margin-bottom: 0px;
+            padding-bottom: 0px;
+            }
+
+
+.navbar{
+    position: fixed;
+    margin-top:20px;
+}
+
+
+.header .nav-item{
+ padding-left: 40px;
+ padding-right: 40px;
+ font-weight: 300px;
+ /*line-height: 10px;*/
+ margin-left: 10px;
+ font-size: 18px; 
+}
+
+
+.header .nav-item:hover{
+    /*border-top:  #E0FFFF solid;*/
+    border-bottom: #E0FFFF solid;
+
+    transition: .5s;
+
+
+}
+
+ li{
+    padding: 10px;
+}
+
+#about-image{
+    margin:0px;
+    padding: 0px;
+    overflow:hidden;
+    width: 1400px;
+    max-width: 100%;
+    height: 100vh;
+    margin-right: 0px;
+}
+
+
+footer{
+    display: block;
+    margin:0px;
+    padding: 0px;
+
+}
+.aviation-main{
+   margin:0;
+   padding: 0;
+   perspective: 1px;
+   height:100%;
+   overflow-y: scroll;
+   overflow-x: hidden;
+   font-family:"luna";
+}
+.aviation {
+    box-sizing: border-box;
+    height: 200vh;
+    padding: 5vw 0 5px;
+    position: relative;
+    transform-style: inherit;
+    width: 100vw;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.aviation img{
+    width: 1400px;
+    max-width: 100%;
+    height: 500vh;
+    margin-right: 0px;
+}
+.navitem {
+ float: left;
+ /*text-decoration: none;*/
+ text-transform: uppercase;
+ padding: 35px;
+ font-size: 15px;
+ text-align: center;
+ min-height: 16px;
+
+}
+.carousel-inner img {
+      width: 100%;
+      height:100%;
+  }
